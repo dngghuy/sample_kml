@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>111.89461062716838,0.8409228244390822 111.89873050021785,0.7482346046990089 111.96327517795396,0.7276369480563093 112.01340030001693,0.693993907827578 112.15759585665856,0.7053227139783531 112.19501803683846,0.7221442236228542 112.24754641818777,0.7976685810205437 112.15450595187596,0.8405795386521308 111.89461062716838,0.8409228244390822 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+</Document>
+</kml>
